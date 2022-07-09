@@ -7,5 +7,5 @@
     `npm install`
   
   - 起動のコマンド
-  `npm start`
+  `npm run start`
   
